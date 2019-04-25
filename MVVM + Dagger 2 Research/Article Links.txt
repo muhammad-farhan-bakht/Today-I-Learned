@@ -1,0 +1,21 @@
+Dagger.android The Missing Deep Dive
+https://medium.com/code-with-lisa/dagger-android-the-missing-deep-dive-96ec4f4c7d01
+
+Using Dagger 2 with MVVM SIMPLIFIED!
+https://medium.com/@princessdharmy/dagger-2-with-mvvm-simplified-3215b3cf4c96
+
+Android MVVM with Dagger 2, Retrofit, RxJava, Architecture Components
+https://android.jlelse.eu/android-mvvm-with-dagger-2-retrofit-rxjava-architecture-components-6f5da1a75135
+
+Improving testability in Android MVVM with Dagger 2
+https://android.jlelse.eu/improving-testability-in-android-mvvm-with-dagger-2-aa961098bad5
+
+MVVM with Kotlin?—?Android Architecture Components, Dagger 2, Retrofit and RxAndroid
+https://proandroiddev.com/mvvm-with-kotlin-android-architecture-components-dagger-2-retrofit-and-rxandroid-1a4ebb38c699
+
+Using Dagger in a multi-module project
+https://proandroiddev.com/using-dagger-in-a-multi-module-project-1e6af8f06ffc
+
+
+Dagger 2 @Inject Workmanager
+https://stackoverflow.com/questions/52434165/dagger2-unable-to-inject-dependencies-in-workmanager
