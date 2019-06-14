@@ -19,3 +19,6 @@ https://proandroiddev.com/using-dagger-in-a-multi-module-project-1e6af8f06ffc
 
 Dagger 2 @Inject Workmanager
 https://stackoverflow.com/questions/52434165/dagger2-unable-to-inject-dependencies-in-workmanager
+
+Coroutines on Android (part I): Getting the background
+https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb
