@@ -10,7 +10,7 @@ https://android.jlelse.eu/android-mvvm-with-dagger-2-retrofit-rxjava-architectur
 Improving testability in Android MVVM with Dagger 2
 https://android.jlelse.eu/improving-testability-in-android-mvvm-with-dagger-2-aa961098bad5
 
-MVVM with Kotlin?—?Android Architecture Components, Dagger 2, Retrofit and RxAndroid
+MVVM with Kotlin?â€”?Android Architecture Components, Dagger 2, Retrofit and RxAndroid
 https://proandroiddev.com/mvvm-with-kotlin-android-architecture-components-dagger-2-retrofit-and-rxandroid-1a4ebb38c699
 
 Using Dagger in a multi-module project
@@ -22,3 +22,5 @@ https://stackoverflow.com/questions/52434165/dagger2-unable-to-inject-dependenci
 
 Coroutines on Android (part I): Getting the background
 https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb
+
+New: Dagger 2 Android Modern Best Videos Series by CodingWithMitch & Coding in Flow.
