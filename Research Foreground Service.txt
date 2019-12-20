@@ -1,0 +1,11 @@
+Doze mode - do foreground services continue to run?
+https://stackoverflow.com/questions/56866806/doze-mode-do-foreground-services-continue-to-run
+
+How to handle background services in ANDROID O?
+https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268
+
+Building an Android service that never stops running
+https://robertohuertas.com/2019/06/29/android_foreground_services/
+
+Effective foreground services on Android
+https://android-developers.googleblog.com/2018/12/effective-foreground-services-on-android_11.html

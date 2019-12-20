@@ -1,0 +1,11 @@
+Android - How to decide whether to run a Service in a separate Process?
+https://stackoverflow.com/questions/4658511/android-how-to-decide-whether-to-run-a-service-in-a-separate-process
+
+Processes and threads overview
+https://developer.android.com/guide/components/processes-and-threads
+
+Processes and Application Lifecycle
+https://developer.android.com/guide/components/activities/process-lifecycle
+
+Exploring Android Processes
+https://medium.com/@kelvinma/exploring-android-processes-bf74ba63552c
