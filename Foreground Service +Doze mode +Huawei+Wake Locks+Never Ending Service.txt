@@ -90,3 +90,6 @@ https://groups.google.com/forum/#!topic/automate-user/7KC3c6X0vMw
 
 What to do if alarms or sleep tracking don’t work?
 https://sleep.urbandroid.org/documentation/faq/alarms-sleep-tracking-dont-work/#huawei
+
+Introduction to Doze mode and App Standby
+https://www.linkedin.com/learning/android-development-building-battery-conscious-apps/introduction-to-doze-mode-and-app-standby?autoplay=true&trk=course_tocItem&upsellOrderOrigin=default_guest_learning
