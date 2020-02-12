@@ -1,0 +1,8 @@
+
+Using the OkHttp library for HTTP requests - Tutorial - Tutorial
+https://www.vogella.com/tutorials/JavaLibrary-OkHttp/article.html
+
+
+OkHttp Interceptors with Retrofit
+https://medium.com/swlh/okhttp-interceptors-with-retrofit-2dcc322cc3f3
+

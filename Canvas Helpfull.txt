@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/14294532/canvas-drawtext-direction
+
+https://stackoverflow.com/questions/22077747/center-text-vertically-and-horizontally-with-canvas
