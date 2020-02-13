@@ -24,3 +24,6 @@ Coroutines on Android (part I): Getting the background
 https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb
 
 New: Dagger 2 Android Modern Best Videos Series by CodingWithMitch & Coding in Flow.
+
+Dagger 2 for Dummies in Kotlin
+https://medium.com/@elye.project/dagger-2-for-dummies-in-kotlin-with-one-page-simple-code-project-618a5f9f2fe8
