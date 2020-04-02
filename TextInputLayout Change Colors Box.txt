@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/53405483/material-design-textinputedittext-border-color-when-not-activated/53405891
+https://stackoverflow.com/questions/47410285/edittext-with-textinputlayout-layout-with-hint-and-border
+
+TextInputLayout styling
+https://stackoverflow.com/questions/31722034/how-to-change-color-of-textinputlayouts-label-and-edittext-underline-android
+
+TextInputLayout with loading indicator
+https://stackoverflow.com/questions/57661168/textinputlayout-with-loading-indicator
+
+
+https://blacklenspub.com/why-i-love-text-field-from-material-design-f5970c3e652d
