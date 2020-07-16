@@ -1,1 +1,5 @@
 https://medium.com/@droidbyme/android-recyclerview-with-single-and-multiple-selection-5d50c0c4c739
+
+BEST:
+Implementing a multi-select RecyclerView with a dynamic ActionBar in Android
+https://heartbeat.fritz.ai/implementing-a-multi-select-recylerview-with-a-dynamic-actionbar-in-android-e36f16a47a1b
