@@ -1,6 +1,10 @@
 Accessing data using Room DAOs
 https://developer.android.com/training/data-storage/room/accessing-data
 
+7 Pro-tips for Room By Florina Muntenescu
+https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1
+
+
 Database relations with Room
 https://medium.com/androiddevelopers/database-relations-with-room-544ab95e4542
 
