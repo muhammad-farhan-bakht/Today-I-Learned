@@ -1,0 +1,90 @@
+Drag and drop items in RecyclerView with GridLayoutManager
+https://stackoverflow.com/questions/29901044/drag-and-drop-items-in-recyclerview-with-gridlayoutmanager/57204561?noredirect=1#comment111470270_57204561
+
+My Code in Multi Timer app Using with ListAdapter And DiffUtils:
+ 
+ ItemTouchHelper(object : ItemTouchHelper.SimpleCallback(ItemTouchHelper.UP or ItemTouchHelper.DOWN or ItemTouchHelper.LEFT or ItemTouchHelper.RIGHT, 0) {
+            var fromPosition: Int = -1
+            var toPosition: Int = -1
+            var doDragAndDrop:Boolean = false
+
+            override fun onMove(rcyclerView: RecyclerView, viewHolder: RecyclerView.ViewHolder, target: RecyclerView.ViewHolder): Boolean {
+                if (viewHolder.itemViewType != target.itemViewType) {
+                    doDragAndDrop = false
+                    return false
+                }else
+                    doDragAndDrop = true
+
+                // Check If Object drag to isFavorite = true so do nothing and retrun false
+                if (timerList[viewHolder.adapterPosition].isFavorite || timerList[target.adapterPosition].isFavorite) {
+                    doDragAndDrop = false
+                    // unselected (dropped). We unhighlight the ViewHolder here.
+                    viewHolder.itemView.alpha = 1.0f
+                    return false
+                }else{
+                    doDragAndDrop = true
+                }
+
+                fromPosition = viewHolder.adapterPosition
+                toPosition = target.adapterPosition
+
+                val item = timerList.removeAt(fromPosition)
+                timerList.add(toPosition, item)
+                mAdapter?.submitList(timerList)
+                mAdapter?.notifyItemMoved(fromPosition, toPosition)
+
+                return true
+            }
+
+            override fun clearView(recyclerView: RecyclerView, viewHolder: RecyclerView.ViewHolder) {
+                super.clearView(recyclerView, viewHolder)
+
+                if (fromPosition != -1 && toPosition != -1 && doDragAndDrop){
+
+                    val dragAndDropList : ArrayList<GroupDragAndDropOrder> = arrayListOf()
+
+                    for (index in 0 until timerList.size){
+                        if (index == 0){
+                            dragAndDropList.add(GroupDragAndDropOrder(timerId = timerList[index].id,orderInGroup = index+1, inclusive = true))
+                        }
+                        else{
+                            dragAndDropList.add(GroupDragAndDropOrder(timerId = timerList[index].id,orderInGroup = index+1, inclusive = false))
+                        }
+                    }
+                    groupViewModel.updateOrderOfTimersByDragAndDrop(dragAndDropList)
+
+                }else{
+                    Timber.e("ItemTouchHelper (clearView) - sourcePosition: $fromPosition & targetPosition: $toPosition")
+                }
+
+                // unselected (dropped). We unhighlight the ViewHolder here.
+                viewHolder.itemView.alpha = 1.0f
+            }
+
+            // Use this Function to check if the Moving Object isFavorite so dont allow to move it
+            override fun getMovementFlags(recyclerView: RecyclerView, viewHolder: RecyclerView.ViewHolder): Int {
+                val dragFlags = ItemTouchHelper.UP or ItemTouchHelper.DOWN or ItemTouchHelper.LEFT or ItemTouchHelper.RIGHT
+                val swipeFlags = 0
+                return if (timerList[viewHolder.adapterPosition].isFavorite) 0 else makeMovementFlags(dragFlags, swipeFlags)
+            }
+
+            // This callback is called when a ViewHolder is selected.
+            //  We highlight the ViewHolder here.
+            override fun onSelectedChanged(viewHolder: RecyclerView.ViewHolder?, actionState: Int) {
+                super.onSelectedChanged(viewHolder, actionState)
+
+                if (actionState == ACTION_STATE_DRAG) {
+                    viewHolder?.itemView?.alpha = 0.7f
+                }
+            }
+
+            override fun onSwiped(p0: RecyclerView.ViewHolder, p1: Int) {
+                //To change body of created functions use File | Settings | File Templates.
+            }
+
+        }).apply {
+            attachToRecyclerView(rc_view_group)
+        }
+    }
+		
+		
