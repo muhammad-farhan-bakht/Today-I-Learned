@@ -1,1 +1,8 @@
+ConstraintLayout in the LIMELIGHT
 https://android.jlelse.eu/constraintlayout-in-the-limelight-6c22b54d9726#bd45
+
+Learn Android ConstraintLayout - Part 1 - Everything you need to know
+https://www.youtube.com/watch?v=P2XHNDHI4PQ
+
+Learn Android ConstraintLayout - Part 2 - Guideline, Barrier and Group
+https://www.youtube.com/watch?v=tUn_eGBr1n4
