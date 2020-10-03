@@ -20,7 +20,6 @@ Things I learned so far in my three years of a professional career and in day to
 - [#31DaysOfKotlin — Week 3 Recap](https://medium.com/androiddevelopers/31daysofkotlin-week-3-recap-20b20ca9e205)
 - [#31DaysOfKotlin — Week 4 Recap](https://medium.com/androiddevelopers/31daysofkotlin-week-4-recap-d820089f8090)
 - [Mastering Design Patterns in Android with Kotlin](https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin)
-- [RequestLayout & Invalidate](https://stackoverflow.com/questions/35279374/why-is-requestlayout-being-called-directly-after-invalidate/40402309)
 
 ## Android
 - [What is Android](https://www.android.com/)
@@ -75,6 +74,7 @@ Things I learned so far in my three years of a professional career and in day to
 #### Views & Layouts
 - [Canvas Drawtext Direction](https://stackoverflow.com/questions/14294532/canvas-drawtext-direction)
 - [Canvas center-text-vertically-and-horizontally](https://stackoverflow.com/questions/22077747/center-text-vertically-and-horizontally-with-canvas)
+- [RequestLayout & Invalidate](https://stackoverflow.com/questions/35279374/why-is-requestlayout-being-called-directly-after-invalidate/40402309)
 - [ConstraintLayout in the LIMELIGHT](https://android.jlelse.eu/constraintlayout-in-the-limelight-6c22b54d9726#bd45)
 - [Android ConstraintLayout - Part 1 - Everything you need to know](https://www.youtube.com/watch?v=P2XHNDHI4PQ)
 - [Android ConstraintLayout - Part 2 - Guideline, Barrier and Group](https://www.youtube.com/watch?v=tUn_eGBr1n4)
