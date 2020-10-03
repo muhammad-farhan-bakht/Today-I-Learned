@@ -1,6 +1,8 @@
 # Today I Learned
 > Today I Learned - TIL
 
+![quote image](https://github.com/FahanBakht/Today-I-Learned/blob/master/Resources/images/quote.jpg)
+---
 
 Things I learned so far in my three years of a professional career and in day to day and research related to Android, API's, Jetpack Components, Architecture, Design Patterns, Kotlin and, Java Concepts.
 
@@ -184,11 +186,11 @@ The best quality courses I loved personally and preferred are:
 - [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 
 ## Books
-- [97 Things Every Programmer Should Know]()
-- [Programming Kotlin]()
-- [Kotlin_in_Action_(2017)]()
-- [Kotlin Main Concept]()
-- [Kotlin Cheatsheet]()
+- [97 Things Every Programmer Should Know](https://github.com/FahanBakht/Today-I-Learned/blob/master/Resources/Books/97_Things_Every_Programmer_Should_Know.pdf)
+- [Programming Kotlin](https://github.com/FahanBakht/Today-I-Learned/blob/master/Resources/Books/Programming_Kotlin.pdf)
+- [Kotlin_in_Action_(2017)](https://github.com/FahanBakht/Today-I-Learned/blob/master/Resources/Books/Kotlin_in_Action_(2017).pdf)
+- [Kotlin Main Concept](https://github.com/FahanBakht/Today-I-Learned/blob/master/Resources/Books/Kotlin_Main_Concept.pdf)
+- [Kotlin Cheatsheet](https://github.com/FahanBakht/Today-I-Learned/blob/master/Resources/Books/Kotlin_Cheatsheet.pdf)
 
 ---
 ## Inspiration
