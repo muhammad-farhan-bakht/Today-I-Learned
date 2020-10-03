@@ -1,0 +1,18 @@
+﻿#31DaysOfKotlin — Week 1 Recap
+https://medium.com/androiddevelopers/31daysofkotlin-week-1-recap-fbd5a622ef86
+
+Multi-module Android project codebase
+https://proandroiddev.com/multi-module-android-project-codebase-ffc153cf7a1e
+
+Mastering Design Patterns in Android with Kotlin
+https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin
+
+Encrypted SharedPreferences 
+https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8
+
+Material Components for Android
+https://github.com/material-components/material-components-android
+
+requestLayout & invalidate
+https://stackoverflow.com/questions/35279374/why-is-requestlayout-being-called-directly-after-invalidate/40402309
+

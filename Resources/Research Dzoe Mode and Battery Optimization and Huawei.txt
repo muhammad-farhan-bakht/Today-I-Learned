@@ -1,0 +1,20 @@
+check-if-battery-optimization-is-enabled-or-not-for-an-app
+https://stackoverflow.com/questions/39256501/check-if-battery-optimization-is-enabled-or-not-for-an-app
+
+Huawei device killing my foreground service, even with dontkillmyapp.com's solution
+https://stackoverflow.com/questions/56883074/huawei-device-killing-my-foreground-service-even-with-dontkillmyapp-coms-solut/56935425
+
+How to turn off battery optimization on Huawei devices
+https://help.safelagoon.com/en/articles/3203458-how-to-turn-off-battery-optimization-on-huawei-devices
+
+Huawei
+https://dontkillmyapp.com/huawei
+
+How to turn off battery optimization on the Huawei devices
+http://nine-faq.9folders.com/articles/16876-how-to-turn-off-battery-optimization-on-the-huawei-devices
+
+How to turn off battery optimization on Huawei devices
+https://support.doubletwist.com/hc/en-us/articles/360001504071-How-to-turn-off-battery-optimization-on-Huawei-devices
+
+“Protected Apps” setting on Huawei phones, and how to handle it
+https://stackoverflow.com/questions/31638986/protected-apps-setting-on-huawei-phones-and-how-to-handle-it

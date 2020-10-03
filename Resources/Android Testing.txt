@@ -1,0 +1,17 @@
+Using Mockito in Android Unit Testing as a Pro
+https://blog.mindorks.com/using-mockito-in-android-unit-testing-as-a-pro
+
+Mockito cannot mock because : final class in Kotlin
+https://blog.mindorks.com/mockito-cannot-mock-in-kotlin
+
+Android Testing part 2: Better unit testing with MVVM + Data-binding
+https://android.jlelse.eu/better-testing-with-mvvm-ae74d4d872bd
+
+Unit Testing in MVVM+Kotlin+DataBinding
+https://thedroidlady.com/2019/07/10/unit-testing-in-mvvm-kotlin-databinding.html
+
+Testing in Android with AndroidX update
+https://medium.com/@mohitaunni/tdd-in-andoid-a-brief-story-part-1-22166d211750
+
+Android Unit Testing with Mockito
+https://www.raywenderlich.com/195-android-unit-testing-with-mockito

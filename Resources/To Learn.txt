@@ -1,0 +1,15 @@
+S.O.L.I.D: The First 5 Principles of Object Oriented Design
+https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+
+GOF / Gang of Four Design Patterns in Java
+https://www.javabrahman.com/design-patterns/gof-gang-four-design-patterns/
+
+Fundamentals of Testing
+https://developer.android.com/training/testing/fundamentals
+
+MicroSoft
+https://blogs.microsoft.com/blog/2020/06/30/microsoft-launches-initiative-to-help-25-million-people-worldwide-acquire-the-digital-skills-needed-in-a-covid-19-economy/?fbclid=IwAR3i3wJDuutjP3_o3eWs3Iba_tyga8jxmn7GC892OoDEPPsDXr2nyzMH72w
+
+
+Android Performance Patterns
+https://www.youtube.com/watch?v=CaMTIgxCSqU
