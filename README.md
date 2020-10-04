@@ -179,6 +179,7 @@ The following are the references from where I mostly Learning.
 - [Lyla Fujiwara](https://medium.com/@lylalyla)
 - [Wajahat Karim](https://medium.com/@wajahatkarim3)
 - [Himanshu Singh](https://medium.com/@himanshoe)
+- [Awesome Android Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
 
 ## Courses
 The best quality courses I loved personally and preferred are:
