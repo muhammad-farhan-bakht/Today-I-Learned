@@ -12,7 +12,8 @@ Things I learned so far in my three years of a professional career and in day to
 - [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - [GOF / Gang of Four Design Patterns in Java](https://www.javabrahman.com/design-patterns/gof-gang-four-design-patterns/)
 - [Pass-By-Value as a Parameter Passing Mechanism in Java](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference#:~:text=Arguments%20in%20Java%20are%20always,then%20passed%20to%20the%20method.)
-- [Java Heap Space vs. Stack Memory]()
+- [Java Heap Space vs. Stack Memory](https://stackify.com/java-heap-vs-stack/)
+- [The dilemma of abstraction vs. encapsulation in an object oriented software design](https://medium.com/@ramsha.bukhari_83619/why-does-tesla-hide-things-6c63ff1b78bd)
 
 ## Kotlin
 - [#31DaysOfKotlin — Week 1 Recap](https://medium.com/androiddevelopers/31daysofkotlin-week-1-recap-fbd5a622ef86)
