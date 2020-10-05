@@ -50,6 +50,8 @@ Things I learned so far in my three years of a professional career and in day to
 - [Purpose of WakeLock in modern Android?](https://stackoverflow.com/questions/53093127/purpose-of-wakelock-in-modern-android)
 - [Android: When is WakeLock needed?](https://stackoverflow.com/questions/31568830/android-when-is-wakelock-needed)
 - [Android background service and wake lock](https://stackoverflow.com/questions/32085565/android-background-service-and-wake-lock)
+- [Using proximity sensor in android](https://stackoverflow.com/questions/17967806/using-proximity-sensor-in-android)
+- [Android Proximity Sensor Example App](https://javapapers.com/android/android-proximity-sensor-example-app/)
 
 #### Android Development
 - [Encrypted SharedPreferences](https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8)
@@ -119,6 +121,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Migrate Room database with Autoincrement Primary Key](https://stackoverflow.com/questions/58157820/migrate-room-database-with-autoincrement-primary-key)
 - [Migration room database, alter table, android?](https://stackoverflow.com/questions/51090386/migration-room-database-alter-table-android/51091520)
 - [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
+- [What’s New in Navigation 2020](https://android-developers.googleblog.com/2020/07/whats-new-in-navigation-2020.html)
 
 #### Coroutines on Android
 - [Coroutines on Android (part I): Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
