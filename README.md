@@ -21,6 +21,9 @@ Things I learned so far in my three years of a professional career and in day to
 - [#31DaysOfKotlin — Week 3 Recap](https://medium.com/androiddevelopers/31daysofkotlin-week-3-recap-20b20ca9e205)
 - [#31DaysOfKotlin — Week 4 Recap](https://medium.com/androiddevelopers/31daysofkotlin-week-4-recap-d820089f8090)
 - [Mastering Design Patterns in Android with Kotlin](https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin)
+- [Structured concurrency](https://medium.com/@elizarov/structured-concurrency-722d765aa952)
+- [Structured Concurrency Anniversary](https://medium.com/@elizarov/structured-concurrency-anniversary-f2cc748b2401)
+- [Cold flows & hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
 
 ## Android
 - [What is Android](https://www.android.com/)
