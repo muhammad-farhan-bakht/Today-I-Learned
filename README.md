@@ -24,6 +24,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Structured concurrency](https://medium.com/@elizarov/structured-concurrency-722d765aa952)
 - [Structured Concurrency Anniversary](https://medium.com/@elizarov/structured-concurrency-anniversary-f2cc748b2401)
 - [Cold flows & hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
+- [Asynchronous Data Streams with Kotlin Flow by Roman Elizarov](https://www.youtube.com/watch?v=tYcqn48SMT8)
 
 ## Android
 - [What is Android](https://www.android.com/)
