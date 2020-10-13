@@ -24,6 +24,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Structured concurrency](https://medium.com/@elizarov/structured-concurrency-722d765aa952)
 - [Structured Concurrency Anniversary](https://medium.com/@elizarov/structured-concurrency-anniversary-f2cc748b2401)
 - [Cold flows & hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
+- [Kotlin Flow for Android: Getting Started](https://www.raywenderlich.com/9799571-kotlin-flow-for-android-getting-started)
 - [Asynchronous Data Streams with Kotlin Flow by Roman Elizarov](https://www.youtube.com/watch?v=tYcqn48SMT8)
 
 ## Android
@@ -56,6 +57,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Android background service and wake lock](https://stackoverflow.com/questions/32085565/android-background-service-and-wake-lock)
 - [Using proximity sensor in android](https://stackoverflow.com/questions/17967806/using-proximity-sensor-in-android)
 - [Android Proximity Sensor Example App](https://javapapers.com/android/android-proximity-sensor-example-app/)
+- [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
 
 #### Android Development
 - [Encrypted SharedPreferences](https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8)
@@ -187,6 +189,7 @@ The following are the references from where I mostly Learning.
 - [Wajahat Karim](https://medium.com/@wajahatkarim3)
 - [Himanshu Singh](https://medium.com/@himanshoe)
 - [Awesome Android Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
+- [Android Dev Notes](https://github.com/androiddevnotes)
 
 ## Courses
 The best quality courses I loved personally and preferred are:
