@@ -150,6 +150,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Using Mockito in Android Unit Testing as a Pro](https://blog.mindorks.com/using-mockito-in-android-unit-testing-as-a-pro)
 - [Mockito cannot mock because : final class in Kotlin](https://blog.mindorks.com/mockito-cannot-mock-in-kotlin)
 - [Android Testing part 2: Better unit testing with MVVM + Data-binding](https://android.jlelse.eu/better-testing-with-mvvm-ae74d4d872bd)
+- [Unit Tests](https://www.linkedin.com/pulse/unit-tests-noha-samir/)
 
 #### Dependency Injection in Android - Dagger2 & Android Dagger
 - [Dependency injection in Android](https://developer.android.com/training/dependency-injection)
