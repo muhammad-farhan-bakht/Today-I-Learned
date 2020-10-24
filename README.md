@@ -26,6 +26,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Cold flows & hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
 - [Kotlin Flow for Android: Getting Started](https://www.raywenderlich.com/9799571-kotlin-flow-for-android-getting-started)
 - [Asynchronous Data Streams with Kotlin Flow by Roman Elizarov](https://www.youtube.com/watch?v=tYcqn48SMT8)
+- [Delegating Delegates to Kotlin](https://medium.com/androiddevelopers/delegating-delegates-to-kotlin-ee0a0b21c52b)
 
 ## Android
 - [What is Android](https://www.android.com/)
@@ -58,6 +59,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Using proximity sensor in android](https://stackoverflow.com/questions/17967806/using-proximity-sensor-in-android)
 - [Android Proximity Sensor Example App](https://javapapers.com/android/android-proximity-sensor-example-app/)
 - [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
+- [Understanding Touch Control and Events in Android](https://blog.mindorks.com/touch-control-and-events-in-android?fbclid=IwAR11R3zzsj4cfOfl9nWweqRd7F9wKdzwLm-7gXjdFpwOQG28mjrMOhEqQec)
 
 #### Android Development
 - [Encrypted SharedPreferences](https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8)
@@ -99,6 +101,8 @@ Things I learned so far in my three years of a professional career and in day to
 - [Drag and drop items in RecyclerView with GridLayoutManager](https://stackoverflow.com/questions/29901044/drag-and-drop-items-in-recyclerview-with-gridlayoutmanager/57204561?noredirect=1#comment111470270_57204561)
 - [Android Recyclerview With Single And Multiple Selection](https://medium.com/@droidbyme/android-recyclerview-with-single-and-multiple-selection-5d50c0c4c739)
 - [Implementing a multi-select RecyclerView with a dynamic ActionBar in Android](https://heartbeat.fritz.ai/implementing-a-multi-select-recylerview-with-a-dynamic-actionbar-in-android-e36f16a47a1b)
+- [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
+- []()
 - [How can I display a list view in an Android Alert Dialog?](https://stackoverflow.com/questions/15762905/how-can-i-display-a-list-view-in-an-android-alert-dialog)
 - [Android Alert Dialog with one, two, and three buttons](https://stackoverflow.com/questions/43513919/android-alert-dialog-with-one-two-and-three-buttons)
 - [How to implement a custom AlertDialog View](https://stackoverflow.com/questions/2795300/how-to-implement-a-custom-alertdialog-view/46742001#46742001)
