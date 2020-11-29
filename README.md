@@ -81,6 +81,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Oreo (8.1) cannot start activity on lock screen](https://stackoverflow.com/questions/48404795/oreo-8-1-cannot-start-activity-on-lock-screen)
 - [Creating a never ending background service in Android](https://fabcirablog.weebly.com/blog/creating-a-never-ending-background-service-in-android)
 - [Creating a never ending background service in Android > 7](https://fabcirablog.weebly.com/blog/creating-a-never-ending-background-service-in-android-gt-7)
+- [Seven simple Android fixes that will ensure privacy on your phone](https://www.wired.co.uk/article/android-phone-privacy-apps)
 
 #### Views & Layouts
 - [Canvas Drawtext Direction](https://stackoverflow.com/questions/14294532/canvas-drawtext-direction)
