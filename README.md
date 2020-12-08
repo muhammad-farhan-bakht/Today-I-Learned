@@ -22,10 +22,6 @@ Things I learned so far in my three years of a professional career and in day to
 - [#31DaysOfKotlin — Week 4 Recap](https://medium.com/androiddevelopers/31daysofkotlin-week-4-recap-d820089f8090)
 - [Mastering Design Patterns in Android with Kotlin](https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin)
 - [Structured concurrency](https://medium.com/@elizarov/structured-concurrency-722d765aa952)
-- [Structured Concurrency Anniversary](https://medium.com/@elizarov/structured-concurrency-anniversary-f2cc748b2401)
-- [Cold flows & hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
-- [Kotlin Flow for Android: Getting Started](https://www.raywenderlich.com/9799571-kotlin-flow-for-android-getting-started)
-- [Asynchronous Data Streams with Kotlin Flow by Roman Elizarov](https://www.youtube.com/watch?v=tYcqn48SMT8)
 - [Delegating Delegates to Kotlin](https://medium.com/androiddevelopers/delegating-delegates-to-kotlin-ee0a0b21c52b)
 
 ## Android
@@ -112,6 +108,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Guide to app architecture](https://developer.android.com/jetpack/guide?gclid=Cj0KCQjw5eX7BRDQARIsAMhYLP-O2orK8LMCCnWLxcKU5phH5MYd1_tdowNW7fFDxQV9xSmLrCeBnjkaAk1IEALw_wcB&gclsrc=aw.ds)
 - [MVVM Architecture - Android Tutorial for Beginners](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
 - [Model-View-ViewModel by Florina Muntenescu](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
+- [Android Unidirectional Data Flow — Kotlin Flow vs. RxJava](https://proandroiddev.com/udf-flowvsrx-a792b946d75c)
 
 #### Jetpack Components
 - [7 Pro-tips for Room By Florina Muntenescu](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
@@ -134,10 +131,21 @@ Things I learned so far in my three years of a professional career and in day to
 - [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 - [What’s New in Navigation 2020](https://android-developers.googleblog.com/2020/07/whats-new-in-navigation-2020.html)
 
-#### Coroutines on Android
+#### Kotlin Coroutines in Android
 - [Coroutines on Android (part I): Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
 - [Coroutines on Android (part II): Getting started](https://medium.com/androiddevelopers/coroutines-on-android-part-ii-getting-started-3bff117176dd)
 - [Coroutines On Android (part III): Real work](https://medium.com/androiddevelopers/coroutines-on-android-part-iii-real-work-2ba8a2ec2f45)
+- [Structured Concurrency Anniversary](https://medium.com/@elizarov/structured-concurrency-anniversary-f2cc748b2401)
+- [Kotlin flows](https://developer.android.com/kotlin/flow)
+- [StateFlow and SharedFlow](https://developer.android.com/kotlin/flow/stateflow-and-sharedflow)
+- [HOW TO USE KOTLIN FLOW IN AN ANDROID APP](https://x-team.com/blog/kotlin-flow-android-app/)
+- [Making Android unidirectional data flow with Kotlin coroutines](https://blog.kotlin-academy.com/making-android-unidirectional-data-flow-with-kotlin-coroutines-d69966717b6e)
+- [Cold flows & hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
+- [Kotlin Flow for Android: Getting Started](https://www.raywenderlich.com/9799571-kotlin-flow-for-android-getting-started)
+- [Asynchronous Data Streams with Kotlin Flow by Roman Elizarov](https://www.youtube.com/watch?v=tYcqn48SMT8)
+- [Coroutines with Lifecycle and LiveData Builders](https://www.raywenderlich.com/9217202-coroutines-with-lifecycle-and-livedata#toc-anchor-003)
+- [Learn By Doing — Live Data Builder : Bridging Coroutines and Live Data in Android](https://levelup.gitconnected.com/learn-by-doing-live-data-builder-bridging-coroutines-and-live-data-in-android-6ea9aa597b4)
+- [Easy Coroutines in Android: liveData() builder, withContext(), and Dispatchers](https://medium.com/@velasco622/easy-coroutines-in-android-livedata-builder-withcontext-and-dispatchers-f4b3fc5a33fc)
 
 #### Testing
 - [Fundamentals of Testing](https://developer.android.com/training/testing/fundamentals)
