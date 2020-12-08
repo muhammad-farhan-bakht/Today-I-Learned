@@ -99,7 +99,6 @@ Things I learned so far in my three years of a professional career and in day to
 - [Android Recyclerview With Single And Multiple Selection](https://medium.com/@droidbyme/android-recyclerview-with-single-and-multiple-selection-5d50c0c4c739)
 - [Implementing a multi-select RecyclerView with a dynamic ActionBar in Android](https://heartbeat.fritz.ai/implementing-a-multi-select-recylerview-with-a-dynamic-actionbar-in-android-e36f16a47a1b)
 - [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
-- []()
 - [How can I display a list view in an Android Alert Dialog?](https://stackoverflow.com/questions/15762905/how-can-i-display-a-list-view-in-an-android-alert-dialog)
 - [Android Alert Dialog with one, two, and three buttons](https://stackoverflow.com/questions/43513919/android-alert-dialog-with-one-two-and-three-buttons)
 - [How to implement a custom AlertDialog View](https://stackoverflow.com/questions/2795300/how-to-implement-a-custom-alertdialog-view/46742001#46742001)
