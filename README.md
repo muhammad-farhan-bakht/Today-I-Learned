@@ -146,6 +146,19 @@ Things I learned so far in my three years of a professional career and in day to
 - [Learn By Doing — Live Data Builder : Bridging Coroutines and Live Data in Android](https://levelup.gitconnected.com/learn-by-doing-live-data-builder-bridging-coroutines-and-live-data-in-android-6ea9aa597b4)
 - [Easy Coroutines in Android: liveData() builder, withContext(), and Dispatchers](https://medium.com/@velasco622/easy-coroutines-in-android-livedata-builder-withcontext-and-dispatchers-f4b3fc5a33fc)
 
+#### Android File System and Storage
+- [Preparing for Scoped Storage in Android 11 Best](https://www.raywenderlich.com/10217168-preparing-for-scoped-storage#toc-anchor-001)
+- [Android Simple Image Gallery](https://medium.com/@moforemmanuel/android-simple-image-gallery-30c0f00abe64)
+- [Handling Media Files With MediaFacer Library For Android](https://android.jlelse.eu/handling-media-files-with-mediafacer-library-for-android-cd9d2ca0dc68)
+- [MediaFacer](https://github.com/CodeBoy722/MediaFacer)
+- [Android-Simple-Image-Gallery!](https://github.com/CodeBoy722/Android-Simple-Image-Gallery)
+- [What is the Difference Between External Storage and Internal Storage?](https://www.cashify.in/what-is-the-difference-between-external-storage-and-internal-storage-cashify-explains)
+- [Android: Internal and External Storage - Terminology Clarification](https://riptutorial.com/android/example/17144/android--internal-and-external-storage---terminology-clarification)
+- [Storing Files in Internal & External Storage](https://androidpedia.net/en/tutorial/150/storing-files-in-internal---external-storage)
+- [Android File IO Tutorial with Internal and External Storage](https://learntodroid.com/android-file-io-tutorial-with-internal-and-external-storage/)
+- [Best: Taming File Storage on Android — Part 2](https://medium.cobeisfresh.com/taming-file-storage-on-android-part-2-4afe9dfd9b6e)
+- [How to Correctly Store App-Specific Files in Android](https://www.grokkingandroid.com/how-to-correctly-store-app-specific-files-in-android/)
+
 #### Testing
 - [Fundamentals of Testing](https://developer.android.com/training/testing/fundamentals)
 - [Test-Driven Development on Android with the Android Testing Support Library (Google I/O '17)](https://www.youtube.com/watch?v=pK7W5npkhho&start=111)
