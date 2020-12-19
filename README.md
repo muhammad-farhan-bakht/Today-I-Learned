@@ -1,7 +1,7 @@
 # Today I Learned
 > Today I Learned - TIL
 
-![quote image](https://github.com/FahanBakht/Today-I-Learned/blob/master/Resources/images/quote.jpg)
+![quote image](https://github.com/FahanBakht/Today-I-Learned/blob/master/Resources/images/qoute_2.jpg)
 ---
 
 Things I learned so far in my three years of a professional career and in day to day and research related to Android, API's, Jetpack Components, Architecture, Design Patterns, Kotlin and, Java Concepts.
