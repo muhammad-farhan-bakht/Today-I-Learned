@@ -78,6 +78,9 @@ Things I learned so far in my three years of a professional career and in day to
 - [Creating a never ending background service in Android](https://fabcirablog.weebly.com/blog/creating-a-never-ending-background-service-in-android)
 - [Creating a never ending background service in Android > 7](https://fabcirablog.weebly.com/blog/creating-a-never-ending-background-service-in-android-gt-7)
 - [Seven simple Android fixes that will ensure privacy on your phone](https://www.wired.co.uk/article/android-phone-privacy-apps)
+- [Easy Runtime Permissions on Android with Kotlin DSL](https://proandroiddev.com/easy-way-to-ask-for-permissions-on-android-62a9ae4a22b0)
+- [Take Picture with Camera - Android - Kotlin](https://devofandroid.blogspot.com/2018/09/take-picture-with-camera-android-studio_22.html)
+- [Android Custom Alert Dialogs + Kotlin extension functions + Kotlin Higher Order functions = Life become Easier! — Kotlin DSL](https://android.jlelse.eu/android-custom-alert-dialogs-kotlin-extension-functions-kotlin-higher-order-functions-life-682305c5322e)
 
 #### Views & Layouts
 - [Canvas Drawtext Direction](https://stackoverflow.com/questions/14294532/canvas-drawtext-direction)
@@ -108,6 +111,10 @@ Things I learned so far in my three years of a professional career and in day to
 - [MVVM Architecture - Android Tutorial for Beginners](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
 - [Model-View-ViewModel by Florina Muntenescu](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
 - [Android Unidirectional Data Flow — Kotlin Flow vs. RxJava](https://proandroiddev.com/udf-flowvsrx-a792b946d75c)
+
+#### Android MVI Architecture
+- [Getting started with MVI Architecture on Android](https://proandroiddev.com/getting-started-with-mvi-architecture-on-android-b2c280b7023)
+- [MVI Architecture for Android Tutorial: Getting Started](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started)
 
 #### Jetpack Components
 - [7 Pro-tips for Room By Florina Muntenescu](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
