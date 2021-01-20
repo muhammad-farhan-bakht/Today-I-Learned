@@ -107,6 +107,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [How to implement a custom AlertDialog View](https://stackoverflow.com/questions/2795300/how-to-implement-a-custom-alertdialog-view/46742001#46742001)
 
 #### Android MVVM Architecture
+- [When to use MVC or MVP or MVVM or Nothing](https://www.linkedin.com/pulse/when-use-mvc-mvp-mvvm-nothing-ahmed-adel/?trk=v-feed)
 - [Guide to app architecture](https://developer.android.com/jetpack/guide?gclid=Cj0KCQjw5eX7BRDQARIsAMhYLP-O2orK8LMCCnWLxcKU5phH5MYd1_tdowNW7fFDxQV9xSmLrCeBnjkaAk1IEALw_wcB&gclsrc=aw.ds)
 - [MVVM Architecture - Android Tutorial for Beginners](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
 - [Model-View-ViewModel by Florina Muntenescu](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
