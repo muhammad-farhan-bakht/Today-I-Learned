@@ -105,6 +105,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [How can I display a list view in an Android Alert Dialog?](https://stackoverflow.com/questions/15762905/how-can-i-display-a-list-view-in-an-android-alert-dialog)
 - [Android Alert Dialog with one, two, and three buttons](https://stackoverflow.com/questions/43513919/android-alert-dialog-with-one-two-and-three-buttons)
 - [How to implement a custom AlertDialog View](https://stackoverflow.com/questions/2795300/how-to-implement-a-custom-alertdialog-view/46742001#46742001)
+- [Popup Menu (with Icons!)](https://resocoder.com/2018/02/02/popup-menu-with-icons-android-kotlin-tutorial-code/)
 
 #### Android MVVM Architecture
 - [When to use MVC or MVP or MVVM or Nothing](https://www.linkedin.com/pulse/when-use-mvc-mvp-mvvm-nothing-ahmed-adel/?trk=v-feed)
