@@ -81,6 +81,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Easy Runtime Permissions on Android with Kotlin DSL](https://proandroiddev.com/easy-way-to-ask-for-permissions-on-android-62a9ae4a22b0)
 - [Take Picture with Camera - Android - Kotlin](https://devofandroid.blogspot.com/2018/09/take-picture-with-camera-android-studio_22.html)
 - [Android Custom Alert Dialogs + Kotlin extension functions + Kotlin Higher Order functions = Life become Easier! — Kotlin DSL](https://android.jlelse.eu/android-custom-alert-dialogs-kotlin-extension-functions-kotlin-higher-order-functions-life-682305c5322e)
+- [Google Play In-App Review API](https://developer.android.com/guide/playcore/in-app-review)
 
 #### Views & Layouts
 - [Canvas Drawtext Direction](https://stackoverflow.com/questions/14294532/canvas-drawtext-direction)
