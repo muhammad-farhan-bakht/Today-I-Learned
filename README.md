@@ -106,6 +106,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Android Alert Dialog with one, two, and three buttons](https://stackoverflow.com/questions/43513919/android-alert-dialog-with-one-two-and-three-buttons)
 - [How to implement a custom AlertDialog View](https://stackoverflow.com/questions/2795300/how-to-implement-a-custom-alertdialog-view/46742001#46742001)
 - [Popup Menu (with Icons!)](https://resocoder.com/2018/02/02/popup-menu-with-icons-android-kotlin-tutorial-code/)
+- [Android and Kotlin: RecyclerView with multiple view types](https://medium.com/@ivancse.58/android-and-kotlin-recyclerview-with-multiple-view-types-65285a254393)
 
 #### Android MVVM Architecture
 - [When to use MVC or MVP or MVVM or Nothing](https://www.linkedin.com/pulse/when-use-mvc-mvp-mvvm-nothing-ahmed-adel/?trk=v-feed)
