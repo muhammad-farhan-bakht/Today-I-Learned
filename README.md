@@ -23,6 +23,8 @@ Things I learned so far in my three years of a professional career and in day to
 - [Mastering Design Patterns in Android with Kotlin](https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin)
 - [Structured concurrency](https://medium.com/@elizarov/structured-concurrency-722d765aa952)
 - [Delegating Delegates to Kotlin](https://medium.com/androiddevelopers/delegating-delegates-to-kotlin-ee0a0b21c52b)
+- [Common Design Patterns for Android with Kotlin](https://www.raywenderlich.com/470-common-design-patterns-for-android-with-kotlin)
+- [Design Patterns In Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 
 ## Android
 - [What is Android](https://www.android.com/)
@@ -141,6 +143,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Migration room database, alter table, android?](https://stackoverflow.com/questions/51090386/migration-room-database-alter-table-android/51091520)
 - [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 - [What’s New in Navigation 2020](https://android-developers.googleblog.com/2020/07/whats-new-in-navigation-2020.html)
+- [Exploring Android Jetpack: Preferences](https://medium.com/google-developer-experts/exploring-android-jetpack-preferences-8bcb0b7bdd14)
 
 #### Kotlin Coroutines in Android
 - [Coroutines on Android (part I): Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
