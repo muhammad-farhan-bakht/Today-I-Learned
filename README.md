@@ -58,6 +58,9 @@ Things I learned so far in my three years of a professional career and in day to
 - [Android Proximity Sensor Example App](https://javapapers.com/android/android-proximity-sensor-example-app/)
 - [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
 - [Understanding Touch Control and Events in Android](https://blog.mindorks.com/touch-control-and-events-in-android?fbclid=IwAR11R3zzsj4cfOfl9nWweqRd7F9wKdzwLm-7gXjdFpwOQG28mjrMOhEqQec)
+- [Instant Run: How Does it Work?](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.ntl30mbe2)
+- [SSL Pinning in Android](https://mailapurvpandey.medium.com/ssl-pinning-in-android-90dddfa3e051)
+- [Set up Android Emulator networking](https://developer.android.com/studio/run/emulator-networking.html)
 
 #### Android Development
 - [Encrypted SharedPreferences](https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8)
@@ -85,6 +88,8 @@ Things I learned so far in my three years of a professional career and in day to
 - [Android Custom Alert Dialogs + Kotlin extension functions + Kotlin Higher Order functions = Life become Easier! — Kotlin DSL](https://android.jlelse.eu/android-custom-alert-dialogs-kotlin-extension-functions-kotlin-higher-order-functions-life-682305c5322e)
 - [Google Play In-App Review API](https://developer.android.com/guide/playcore/in-app-review)
 - [App startup time](https://developer.android.com/topic/performance/vitals/launch-time#themed)
+- [Handling Lifecycle with View Binding in Fragments](https://medium.com/default-to-open/handling-lifecycle-with-view-binding-in-fragments-a7f237c56832)
+- [Create PDF](https://stackoverflow.com/questions/34257954/setting-text-size-using-android-pdfdocument-based-on-pdf-document-canvas-size)
 
 #### Views & Layouts
 - [Canvas Drawtext Direction](https://stackoverflow.com/questions/14294532/canvas-drawtext-direction)
