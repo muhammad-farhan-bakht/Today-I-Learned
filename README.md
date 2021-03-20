@@ -116,6 +116,9 @@ Things I learned so far in my three years of a professional career and in day to
 - [How to implement a custom AlertDialog View](https://stackoverflow.com/questions/2795300/how-to-implement-a-custom-alertdialog-view/46742001#46742001)
 - [Popup Menu (with Icons!)](https://resocoder.com/2018/02/02/popup-menu-with-icons-android-kotlin-tutorial-code/)
 - [Android and Kotlin: RecyclerView with multiple view types](https://medium.com/@ivancse.58/android-and-kotlin-recyclerview-with-multiple-view-types-65285a254393)
+- [Navigation Component for Android Transition and Navigation](https://www.raywenderlich.com/8279305-navigation-component-for-android-part-3-transition-and-navigation)
+- [Show and hide a View with a slide up/down animation](https://stackoverflow.com/questions/19765938/show-and-hide-a-view-with-a-slide-up-down-animation/19766034#19766034)
+- [Show and hide action bar with animation](https://stackoverflow.com/questions/33667552/android-supportactionbar-not-animating-on-show-hide/42905611)
 
 #### Android MVVM Architecture
 - [When to use MVC or MVP or MVVM or Nothing](https://www.linkedin.com/pulse/when-use-mvc-mvp-mvvm-nothing-ahmed-adel/?trk=v-feed)
