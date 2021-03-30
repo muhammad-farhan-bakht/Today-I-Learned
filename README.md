@@ -61,6 +61,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Instant Run: How Does it Work?](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.ntl30mbe2)
 - [SSL Pinning in Android](https://mailapurvpandey.medium.com/ssl-pinning-in-android-90dddfa3e051)
 - [Set up Android Emulator networking](https://developer.android.com/studio/run/emulator-networking.html)
+- [Understanding the Android Application Class](https://guides.codepath.com/android/Understanding-the-Android-Application-Class)
 
 #### Android Development
 - [Encrypted SharedPreferences](https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8)
