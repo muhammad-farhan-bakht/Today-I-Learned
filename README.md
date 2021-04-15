@@ -127,6 +127,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [MVVM Architecture - Android Tutorial for Beginners](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
 - [Model-View-ViewModel by Florina Muntenescu](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
 - [Android Unidirectional Data Flow — Kotlin Flow vs. RxJava](https://proandroiddev.com/udf-flowvsrx-a792b946d75c)
+- [MVP/MVVM](https://aalishan565.medium.com/mvp-mvvm-884cec9c9999)
 
 #### Android MVI Architecture
 - [Getting started with MVI Architecture on Android](https://proandroiddev.com/getting-started-with-mvi-architecture-on-android-b2c280b7023)
