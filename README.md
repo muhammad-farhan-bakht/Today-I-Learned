@@ -28,6 +28,7 @@ Things I learned so far in my three years of a professional career and in day to
 
 ## Android
 - [What is Android](https://www.android.com/)
+- [Android Architecture](https://source.android.com/devices/architecture)
 
 #### Android Core
 - [Android Performance Patterns](https://www.youtube.com/watch?v=CaMTIgxCSqU)
