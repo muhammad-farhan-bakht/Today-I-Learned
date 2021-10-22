@@ -154,6 +154,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 - [What’s New in Navigation 2020](https://android-developers.googleblog.com/2020/07/whats-new-in-navigation-2020.html)
 - [Exploring Android Jetpack: Preferences](https://medium.com/google-developer-experts/exploring-android-jetpack-preferences-8bcb0b7bdd14)
+- [Android Jetpack Security](https://blog.kotlin-academy.com/secure-secrets-in-android-using-jetpack-security-in-depth-android-security-02-4026b8e012f4)
 
 #### Kotlin Coroutines in Android
 - [Coroutines on Android (part I): Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
@@ -170,6 +171,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Coroutines with Lifecycle and LiveData Builders](https://www.raywenderlich.com/9217202-coroutines-with-lifecycle-and-livedata#toc-anchor-003)
 - [Learn By Doing — Live Data Builder : Bridging Coroutines and Live Data in Android](https://levelup.gitconnected.com/learn-by-doing-live-data-builder-bridging-coroutines-and-live-data-in-android-6ea9aa597b4)
 - [Easy Coroutines in Android: liveData() builder, withContext(), and Dispatchers](https://medium.com/@velasco622/easy-coroutines-in-android-livedata-builder-withcontext-and-dispatchers-f4b3fc5a33fc)
+- [Going deep on Flows & Channels — Part 1: Streams](https://proandroiddev.com/going-deep-on-flows-channels-part-1-streams-5ae8b8491ac4)
 
 #### Android File System and Storage
 - [Preparing for Scoped Storage in Android 11 Best](https://www.raywenderlich.com/10217168-preparing-for-scoped-storage#toc-anchor-001)
