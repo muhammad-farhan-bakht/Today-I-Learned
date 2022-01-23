@@ -158,6 +158,8 @@ Things I learned so far in my three years of a professional career and in day to
 - [What’s New in Navigation 2020](https://android-developers.googleblog.com/2020/07/whats-new-in-navigation-2020.html)
 - [Exploring Android Jetpack: Preferences](https://medium.com/google-developer-experts/exploring-android-jetpack-preferences-8bcb0b7bdd14)
 - [Android Jetpack Security](https://blog.kotlin-academy.com/secure-secrets-in-android-using-jetpack-security-in-depth-android-security-02-4026b8e012f4)
+- [Room Insert Sealed class as a variable - Moshi & Kotlin's sealed classes](https://notificare.com/blog/2020/12/25/Polymorphic-moshi-adapter/)
+- [Room Insert Sealed class as a variable - How to parse polymorphic objects in Kotlin using Moshi](https://stackoverflow.com/questions/58071529/how-to-parse-polymorphic-objects-in-kotlin-using-moshi)
 
 #### Kotlin Coroutines in Android
 - [Coroutines on Android (part I): Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
