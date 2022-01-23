@@ -160,6 +160,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Android Jetpack Security](https://blog.kotlin-academy.com/secure-secrets-in-android-using-jetpack-security-in-depth-android-security-02-4026b8e012f4)
 - [Room Insert Sealed class as a variable - Moshi & Kotlin's sealed classes](https://notificare.com/blog/2020/12/25/Polymorphic-moshi-adapter/)
 - [Room Insert Sealed class as a variable - How to parse polymorphic objects in Kotlin using Moshi](https://stackoverflow.com/questions/58071529/how-to-parse-polymorphic-objects-in-kotlin-using-moshi)
+- [Room add Moshi TypeConvertor](https://stackoverflow.com/questions/53114573/room-typeconverter-with-constructer)
 
 #### Kotlin Coroutines in Android
 - [Coroutines on Android (part I): Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
