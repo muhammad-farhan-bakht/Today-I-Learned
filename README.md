@@ -14,6 +14,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Pass-By-Value as a Parameter Passing Mechanism in Java](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference#:~:text=Arguments%20in%20Java%20are%20always,then%20passed%20to%20the%20method.)
 - [Java Heap Space vs. Stack Memory](https://stackify.com/java-heap-vs-stack/)
 - [The dilemma of abstraction vs. encapsulation in an object oriented software design](https://medium.com/@ramsha.bukhari_83619/why-does-tesla-hide-things-6c63ff1b78bd)
+- [MVP for Android](https://medium.com/@rezabigdeli6/mvp-for-android-6784779e35e4)
 
 ## Kotlin
 - [#31DaysOfKotlin — Week 1 Recap](https://medium.com/androiddevelopers/31daysofkotlin-week-1-recap-fbd5a622ef86)
