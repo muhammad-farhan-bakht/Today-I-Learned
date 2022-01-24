@@ -64,6 +64,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [SSL Pinning in Android](https://mailapurvpandey.medium.com/ssl-pinning-in-android-90dddfa3e051)
 - [Set up Android Emulator networking](https://developer.android.com/studio/run/emulator-networking.html)
 - [Understanding the Android Application Class](https://guides.codepath.com/android/Understanding-the-Android-Application-Class)
+- [Save image into gallery](https://stackoverflow.com/questions/8560501/android-save-image-into-gallery)
 
 #### Android Development
 - [Encrypted SharedPreferences](https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8)
