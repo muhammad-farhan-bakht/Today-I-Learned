@@ -237,6 +237,9 @@ Things I learned so far in my three years of a professional career and in day to
 - [Push Notifications Not Coming Through To Your Huawei Phone? Here's How To Fix It](https://www.forbes.com/sites/bensin/2016/07/04/push-notifications-not-coming-through-to-your-huawei-phone-heres-how-to-fix-it/#f546df01ccc5)
 - [What to do if alarms or sleep tracking don’t work?](https://sleep.urbandroid.org/documentation/faq/alarms-sleep-tracking-dont-work/#huawei)
 
+#### Android App Security
+- [How to Extract an API Key from a Mobile App by Static Binary Analysis](https://blog.approov.io/how-to-extract-an-api-key-from-a-mobile-app-with-static-binary-analysis)
+
 ## References
 The following are the references from where I mostly Learning.
 
