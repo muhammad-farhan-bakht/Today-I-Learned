@@ -61,7 +61,6 @@ Things I learned so far in my three years of a professional career and in day to
 - [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
 - [Understanding Touch Control and Events in Android](https://blog.mindorks.com/touch-control-and-events-in-android?fbclid=IwAR11R3zzsj4cfOfl9nWweqRd7F9wKdzwLm-7gXjdFpwOQG28mjrMOhEqQec)
 - [Instant Run: How Does it Work?](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.ntl30mbe2)
-- [SSL Pinning in Android](https://mailapurvpandey.medium.com/ssl-pinning-in-android-90dddfa3e051)
 - [Set up Android Emulator networking](https://developer.android.com/studio/run/emulator-networking.html)
 - [Understanding the Android Application Class](https://guides.codepath.com/android/Understanding-the-Android-Application-Class)
 - [Save image into gallery](https://stackoverflow.com/questions/8560501/android-save-image-into-gallery)
@@ -239,6 +238,10 @@ Things I learned so far in my three years of a professional career and in day to
 
 #### Android App Security
 - [How to Extract an API Key from a Mobile App by Static Binary Analysis](https://blog.approov.io/how-to-extract-an-api-key-from-a-mobile-app-with-static-binary-analysis)
+- [Android Security: SSL Pinning](https://appmattus.medium.com/android-security-ssl-pinning-1db8acb6621e#cb2b)
+- [SSL Pinning in Android](https://mailapurvpandey.medium.com/ssl-pinning-in-android-90dddfa3e051)
+- [SSL Pinning in Android Part 1](https://tech.groww.in/ssl-pinning-in-android-part-1-d23a01d51fd6)
+- [Securing the network traffic in Android using Certificate Pinning](https://sreekumar-av.medium.com/certificate-public-key-pinning-in-android-using-retrofit-2-0-74140800025b)
 
 ## References
 The following are the references from where I mostly Learning.
