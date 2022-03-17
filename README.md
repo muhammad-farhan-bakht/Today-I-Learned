@@ -252,7 +252,10 @@ Things I learned so far in my three years of a professional career and in day to
 - [Is Your Kotlin Code Really Obfuscated?](https://proandroiddev.com/is-your-kotlin-code-really-obfuscated-a36abf033dde)
 - [How to make Proguard keep Kotlin data class](https://medium.com/@dss99911/kotlin-proguard-keep-data-class-ca2660cf2d03)
 - [The Root of Things: Detecting if an android device is rooted](https://www.security-sleuth.com/sleuth-blog/2018/10/14/the-root-of-things-detecting-if-an-android-device-is-rooted)
+- [How can I detect when an Android application is running in the emulator?](https://stackoverflow.com/questions/2799097/how-can-i-detect-when-an-android-application-is-running-in-the-emulator)
+- [Android App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/)
 - [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer)
+- [JADX](https://github.com/skylot/jadx)
 
 ## References
 The following are the references from where I mostly Learning.
