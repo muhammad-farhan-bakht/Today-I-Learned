@@ -256,6 +256,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Android App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/)
 - [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer)
 - [JADX](https://github.com/skylot/jadx)
+- [Ghidra Software Reverse Engineering Framework](https://github.com/NationalSecurityAgency/ghidra)
 
 ## References
 The following are the references from where I mostly Learning.
