@@ -257,6 +257,10 @@ Things I learned so far in my three years of a professional career and in day to
 - [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer)
 - [JADX](https://github.com/skylot/jadx)
 - [Ghidra Software Reverse Engineering Framework](https://github.com/NationalSecurityAgency/ghidra)
+- [Bypassing Android’s RootBeer Library](https://medium.com/secarmalabs/bypassing-androids-rootbeer-library-part-1-a5f93918660d)
+- [Comparison of Different Android Root-Detection Bypass Tools](https://medium.com/secarmalabs/comparison-of-different-android-root-detection-bypass-tools-8fd477251640)
+- [How to Implement Root Detection in Android Applications](https://www.indusface.com/learning/how-to-implement-root-detection-in-android-applications/)
+- [Root Beer Github](https://github.com/scottyab/rootbeer)
 
 ## References
 The following are the references from where I mostly Learning.
