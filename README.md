@@ -261,6 +261,9 @@ Things I learned so far in my three years of a professional career and in day to
 - [Comparison of Different Android Root-Detection Bypass Tools](https://medium.com/secarmalabs/comparison-of-different-android-root-detection-bypass-tools-8fd477251640)
 - [How to Implement Root Detection in Android Applications](https://www.indusface.com/learning/how-to-implement-root-detection-in-android-applications/)
 - [Root Beer Github](https://github.com/scottyab/rootbeer)
+- [The Jiu-Jitsu of Detecting Frida](https://web.archive.org/web/20200310081321/https://www.vantagepoint.sg/blog/90-the-jiu-jitsu-of-detecting-frida)
+- [DetectFrida Github](https://github.com/darvincisec/DetectFrida/tree/master/app)
+- [Determine if running on a rooted device Best](https://stackoverflow.com/questions/1101380/determine-if-running-on-a-rooted-device/46332386#46332386)
 
 ## References
 The following are the references from where I mostly Learning.
