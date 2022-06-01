@@ -242,7 +242,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [SSL Pinning in Android](https://mailapurvpandey.medium.com/ssl-pinning-in-android-90dddfa3e051)
 - [SSL Pinning in Android Part 1](https://tech.groww.in/ssl-pinning-in-android-part-1-d23a01d51fd6)
 - [Securing the network traffic in Android using Certificate Pinning](https://sreekumar-av.medium.com/certificate-public-key-pinning-in-android-using-retrofit-2-0-74140800025b)
-- [Hide API keys in native libraries using NDK](https://medium.com/droid-by-me/android-hide-api-keys-in-native-libraries-using-ndk-e1e32c177cd3)
+- [Hide API keys in native libraries using NDK Best](https://medium.com/droid-by-me/android-hide-api-keys-in-native-libraries-using-ndk-e1e32c177cd3)
 - [Securing API Keys using Android NDK](https://medium.com/@abhi007tyagi/storing-api-keys-using-android-ndk-6abb0adcadad)
 - [A follow-up on how to store tokens securely in Android](https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-securely-in-android-e84ac5f15f17)
 - [Add C/C++ Code To existing Android Project](https://www.youtube.com/watch?v=ZjZZPw9wY8E)
