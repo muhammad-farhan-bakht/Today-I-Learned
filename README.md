@@ -265,6 +265,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [DetectFrida Github](https://github.com/darvincisec/DetectFrida/tree/master/app)
 - [meat-grinder](https://github.com/DimaKoz/meat-grinder)
 - [Determine if running on a rooted device Best](https://stackoverflow.com/questions/1101380/determine-if-running-on-a-rooted-device/46332386#46332386)
+- [Security hardening of Android native code](https://darvincitech.wordpress.com/2020/01/07/security-hardening-of-android-native-code/)
 
 ## References
 The following are the references from where I mostly Learning.
