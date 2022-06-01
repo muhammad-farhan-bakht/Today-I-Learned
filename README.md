@@ -263,6 +263,7 @@ Things I learned so far in my three years of a professional career and in day to
 - [Root Beer Github](https://github.com/scottyab/rootbeer)
 - [The Jiu-Jitsu of Detecting Frida](https://web.archive.org/web/20200310081321/https://www.vantagepoint.sg/blog/90-the-jiu-jitsu-of-detecting-frida)
 - [DetectFrida Github](https://github.com/darvincisec/DetectFrida/tree/master/app)
+- [meat-grinder](https://github.com/DimaKoz/meat-grinder)
 - [Determine if running on a rooted device Best](https://stackoverflow.com/questions/1101380/determine-if-running-on-a-rooted-device/46332386#46332386)
 
 ## References
